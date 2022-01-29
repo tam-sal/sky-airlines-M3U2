@@ -144,7 +144,7 @@ h2 {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  margin: 1em 1em;
+  margin: 1em 0em;
   flex-wrap: no-wrap;
 }
 .persona {
