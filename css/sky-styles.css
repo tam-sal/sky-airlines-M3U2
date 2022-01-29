@@ -405,10 +405,9 @@ h2 {
 
 .container-titulo:hover > .mas-info {
   margin-bottom: 0;
-  color: turquoise;
   background: rgba(7, 8, 97, 0.6);
 }
 .container-titulo:hover > .mas-info a {
-  background: rgba(7, 8, 97, 0);
   color: turquoise;
 }
+/* Fin Novedades */
