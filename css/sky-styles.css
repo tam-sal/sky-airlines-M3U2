@@ -222,6 +222,7 @@ h2 {
     rgba(128, 126, 126, 0.7)
   );
   color: turquoise;
+  border-radius: 6.5em 6.5em 0.5em 0.5em;
 }
 .persona:hover > .puesto,
 .persona:hover > .nom-persona {
