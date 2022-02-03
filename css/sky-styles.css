@@ -68,6 +68,10 @@ nav {
   margin: 0 auto;
 }
 
+.homeimg img {
+  width: 960px;
+}
+
 footer {
   background: #ccc;
   clear: both;
@@ -181,6 +185,7 @@ h2 {
 }
 
 .img-persona {
+  width: 150px;
   border-radius: 50%;
   filter: blur(0.5px);
   filter: grayscale(60%);
